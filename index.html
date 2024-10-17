@@ -1144,7 +1144,7 @@
                         <div>
                             <button class="play-button" title="Playing">▶</button>
                         </div>
-                        <i class="fas fa-star favorite-star" title="Agregar a favoritos"></i>
+                        <i class="fas fa-star favorite-star" title="Add to favorites"></i>
                     `;
                     button.onclick = (event) => handleChannelButtonClick(event, index);
                     channelList.appendChild(button);
@@ -1288,7 +1288,7 @@
         }
 
         function updateChannelInfo(channelName) {
-            channelInfoDiv.textContent = `Reproduciendo: ${channelName}`;
+            channelInfoDiv.textContent = `Playing: ${channelName}`;
             channelInfoDiv.style.display = 'block';
             setTimeout(() => {
                 channelInfoDiv.style.display = 'none';
