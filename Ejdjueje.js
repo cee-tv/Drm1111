@@ -49,12 +49,7 @@
                 type: "mpd",
                 category: "LocalChannel"
             },
-            {
-                name: "NET25",
-                logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0INNJJHVzBvE_BJuCbh_o_CQCg23uvxsZbkXFsVtPfaRbEXs_e001-hY&s=10",
-                url: "https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8",
-                type: "m3u8",
-                category: "LocalChannel"
+            
         },
 {
                 name: "PTV",
@@ -759,34 +754,5 @@
                 url: "https://myxnola-abscbn-ono.amagi.tv/index.m3u8",
                 type: "m3u8",
                 category: "MUSIC"
-        },
-           
-            {
-                name: "TEST",
-                logo: "https://i.ytimg.com/vi/G64h_SfQivc/maxresdefault.jpg",
-                url: "https://www.youtube.com/watch",
-                type: "youtube",
-                category: "streaming"
-            },
-            {
-                name: "TEST",
-                logo: "https://media.a24.com/p/7e84fe9f805ff79c5d6682fc89ac3f3a/adjuntos/296/imagenes/009/362/0009362916/1200x675/smart/davoxeneizejpg.jpg",
-                url: "https://kick.com/",
-                type: "kick",
-                category: "streaming"
-            },
-            {
-                name: "TEST",
-                logo: "https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png",
-                url: "https://www.youtube.com/watch?v=9CYW1yCcSLU",
-                type: "youtube",
-                category: "streaming"
-            },
-            {
-                name: "TEST",
-                logo: "https://kuarzo.com/wp-content/uploads/2023/04/Group-63-1.jpg",
-                url: "https://www.youtube.com/watch?v=",
-                type: "youtube",
-                category: "streaming"
-            }
+        },          
         ];
